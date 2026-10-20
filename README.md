@@ -14,8 +14,8 @@ I'm seeking a **5–6 month PFE internship starting in January 2027**, with a pa
 | Project | Focus |
 | --- | --- |
 | **[NeuroJSCC-LDPC](https://github.com/D4azai/NeuroJSCC-LDPC)** | Neural communications and controlled comparisons of graph-based, MLP, and classical LDPC decoders. |
+| **[FinRisk Sentinel](https://github.com/D4azai/finrisk-sentinel)** | Financial data and risk analysis project focused on the Casablanca Stock Exchange, using Python, FastAPI, PostgreSQL, and Redis. |
 | **[PolyTg-Bench](https://github.com/D4azai/polytg-benchmark)** | Benchmark framework comparing molecular descriptors, fingerprints, graphs, and language-model embeddings for polymer property prediction. Experiments pending. |
-| **[PoseAdapt](https://github.com/D4azai/PoseAdapt)** | Human pose estimation research project with an image-inference foundation; low-data adaptation and robustness experiments are in development. |
 
 ## Technical toolkit
 
